@@ -36,7 +36,8 @@ You should find the above project challenging. However, if you complete it, here
 
 * Show an error message when invalid input is given. Using [try-catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) is your best bet here.
 * Disallow invalid input.
-* Allow for chaining long calculations. [Order of operations](https://en.wikipedia.org/wiki/Order_of_operations) must be honored.
+    Completed 
+    * Allow for chaining long calculations. [Order of operations](https://en.wikipedia.org/wiki/Order_of_operations) must be honored.
 * Handle edge situations. For example, if a user starts by pressing the decimal button, they generally expect to start a decimal number, which needs a 0 before the decimal point. Add that 0.
 * Allow entry via the keyboard, not just clicking on buttons.
 * Add a button for calculating the modulo of two numbers.
